@@ -2,7 +2,7 @@
 
 DataService ds = new DataService();
 
-Console.Title = "Спринт #3 | Выполнил: Бат Т.И. | ПИНб-25-1";
+Console.Title = "Спринт #4 | Выполнил: Бат Т.И. | ПИНб-25-1";
 Console.WriteLine("****************************************************************************");
 Console.WriteLine("* Спринт #4                                                                *");
 Console.WriteLine("* Тема: Одномерные массивы                                                 *");

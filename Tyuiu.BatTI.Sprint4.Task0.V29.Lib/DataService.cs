@@ -15,6 +15,7 @@ namespace Tyuiu.BatTI.Sprint4.Task0.V29.Lib
                     nums = nums + array[i];
                 }
             }
+
             return nums;
         }
     }
